@@ -1,0 +1,76 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+    background-image: url("https://img.freepik.com/fotos-premium/livro-magico-do-mundo-literario-sobre-a-mesa-a-magia-das-palavras_465502-1972.jpg?w=2000;");
+
+  }
+ 
+  .container {
+    background-color: #ece2d2de;
+    margin: 10px auto;
+    padding: 100px;
+    width: 1000px;
+    text-align: center;
+  }
+ 
+  h1 {
+    color: #333333;
+    font-size: 24px;
+    text-decoration: underline;
+    margin-bottom: 20px;
+  }
+ 
+  p {
+    color: #a38709;
+    font-size: 18px;
+    margin-bottom: 100px;
+  }
+ 
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #337ab7;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    width: 250px;
+  }
+ 
+  .button:hover {
+    background-color: #23527c;
+  }
+ 
+  .link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #337ab7;
+    text-decoration: underline;
+  }
+  nav { 
+    background-color: rgba(241, 219, 24, 0.26);
+    margin-top: 50px;
+    font-size: 16px;
+    color: #337ab7;
+    text-decoration: underline;
+    margin-top: 20px;
+  }
+  nav {
+    background-color: #158cf500;
+    color: #33333300;
+    padding: 10px;
+  }
+   nav a{
+    color: #e00909;
+    text-decoration: none;
+   }
+   nav li {
+    display:inline;
+    margin-right: 100px;
+   }
